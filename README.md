@@ -25,4 +25,8 @@
 
 2、复制插件至plugins目录，重启domoticz
 
+3、输入名称添加即可
+
+4、重启空气管家M1 稍等片刻刷新domoticz即可看到设备信息。
+
 如果你想通过homebridge使用 请访问 https://github.com/YinHangCode/homebridge-phicomm-air_detector
